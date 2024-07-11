@@ -8,8 +8,10 @@ export const Gallery = (props) => {
         <div className="section-title">
           <h2>Gallery</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+            The Gallery view allows you to showcase our hostel’s facilities and
+            environment through high-quality images.Rooms, common areas, and
+            amenities,for giving a visual tour potential tenants of what to
+            expect.
           </p>
         </div>
         <div className="row">

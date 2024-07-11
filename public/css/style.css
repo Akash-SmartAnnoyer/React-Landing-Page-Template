@@ -43,13 +43,13 @@ p.intro {
   line-height: 24px;
 }
 a {
-  color: #608dfd;
+  color: black;
   font-weight: 400;
 }
 a:hover,
 a:focus {
   text-decoration: none;
-  color: #608dfd;
+  color: black;
 }
 ul,
 ol {
@@ -135,10 +135,10 @@ hr {
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
   background-color: #fff;
-  border-color: #608dfd;
+  border-color: black;
 }
 .navbar-default .navbar-toggle:hover > .icon-bar {
-  background-color: #608dfd;
+  background-color: black;
 }
 .section-title {
   margin-bottom: 70px;
@@ -166,7 +166,7 @@ hr {
   font-family: "Raleway", sans-serif;
   text-transform: uppercase;
   color: #fff;
-  background-color: #5ca9fb;
+  background-color: black;
   background-image: linear-gradient(to right, #5ca9fb 0%, #6372ff 100%);
   padding: 14px 34px;
   letter-spacing: 1px;
@@ -184,7 +184,7 @@ hr {
 .btn-custom.active {
   color: #fff;
   background-image: none;
-  background-color: #6372ff;
+  background-color: black;
 }
 .btn:active,
 .btn.active {
@@ -208,7 +208,7 @@ a:focus,
   display: table;
   width: 100%;
   padding: 0;
-  background: url(../img/intro-bg.jpg) center center no-repeat;
+  background: url(../img/intro-bg-2.jpg) center center no-repeat;
   background-color: #e5e5e5;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -229,7 +229,7 @@ a:focus,
 }
 .intro h1 span {
   font-weight: 800;
-  color: #5ca9fb;
+  color: black;
 }
 .intro p {
   color: #fff;
@@ -291,7 +291,7 @@ header .intro-text {
 #about .about-text li:before {
   content: "\f00c";
   font-family: "FontAwesome";
-  color: #5ca9fb;
+  color: black;
   font-size: 11px;
   font-weight: 300;
   padding-right: 8px;
@@ -580,7 +580,7 @@ label {
   transition: all 0.3s;
 }
 #contact .social i.fa:hover {
-  color: #608dfd;
+  color: black;
   background: #fff;
 }
 /* Footer Section*/
@@ -593,10 +593,10 @@ label {
   font-size: 14px;
 }
 #footer a {
-  color: #608dfd;
+  color: black;
 }
 #footer a:hover {
-  border-bottom: 2px solid #608dfd;
+  border-bottom: 2px solid black;
 }
 
 @media (max-width: 768px) {

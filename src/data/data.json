@@ -1,102 +1,90 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Sri Krishna PG",
+    "paragraph":" Living with AC rooms, a Washing Machine, and 5G Wi-Fi. Centrally located near Kailasagiri, the Beach, Main roads, and Parks."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Located in MVP Colony Sector 10, Vizag, near Kailasagiri and the beach, Sri Krishna Boys PG Hostel offers air-conditioned rooms, a washing machine, and high-speed Wi-Fi. Centrally situated, it's close to markets, main roads, and parks. Enjoy a safe, comfortable stay with all essential amenities.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Comfort",
+      "Convenience",
+      "Safety dolor",
+      "Amenities"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Location",
+      "Homely",
+      "Connectivity",
+      "Security"
     ]
   },
   "Gallery": [
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "title": "Aerial View",
+      "largeImage": "img/portfolio/arealView.jpg",
+      "smallImage": "img/portfolio/arealView.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
+      "title": "Terrace View",
+      "largeImage": "img/portfolio/terraceView.jpg",
+      "smallImage": "img/portfolio/terraceView.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
+      "title": "Dining",
+      "largeImage": "img/portfolio/dining.jpeg",
+      "smallImage": "img/portfolio/dining.jpeg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
+      "title": "Double Sharing",
+      "largeImage": "img/portfolio/dualShare.jpeg",
+      "smallImage": "img/portfolio/dualShare.jpeg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
+      "title": "Triple Sharing",
+      "largeImage": "img/portfolio/tripleShare.jpeg",
+      "smallImage": "img/portfolio/tripleShare.jpeg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
+      "title": "Four Sharing",
+      "largeImage": "img/portfolio/fourShare.jpeg",
+      "smallImage": "img/portfolio/fourShare.jpeg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
+      "title": "Multi Sharing",
+      "largeImage": "img/portfolio/multiShare.jpeg",
+      "smallImage": "img/portfolio/multiShare.jpeg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
+      "title": "Exterior",
+      "largeImage": "img/portfolio/exterior.jpeg",
+      "smallImage": "img/portfolio/exterior.jpeg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
+      "title": "Wash Rooms",
+      "largeImage": "img/portfolio/washroom.jpeg",
+      "smallImage": "img/portfolio/washroom.jpeg"
     }
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-bed",
+      "name": "Room Management",
+      "text": "Efficiently manage rooms with detailed information such as room number, type, status, and rent. Easily add, edit, and view room details.",
+      "link": "/room-management"
     },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-users",
+      "name": "Tenant Management",
+      "text": "Maintain a comprehensive list of tenants, including their personal details, room assignments, and rent status. Add, edit, and view tenant information with ease.",
+      "link": "/tenant-management"
     },
     {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-money",
+      "name": "Rent Management",
+      "text": "Keep track of rent payments and dues. Generate and view payment history, and record new rent payments effortlessly.",
+      "link": "/rent-management"
     }
-  ],
+  ],  
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
@@ -131,54 +119,50 @@
   ],
   "Team": [
     {
-      "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "img": "img/team/teja.jfif",
+      "name": "ATR Teja",
+      "job": "Developer"
     },
     {
-      "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "img": "img/team/akash.jfif",
+      "name": "Akash Kumar",
+      "job": "Developer"
     },
     {
-      "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
-    },
-    {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "img": "img/team/akhil.jpg",
+      "name": "Akhil",
+      "job": "Developer"
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    "address": "M1, Door No 2-39-9, Sector 9&10, Mvp Colony, Visakhapatnam - 530017 (Near Samata College, Apughar Road)",
+    "phone": "+91 8128198752",
+    "email": "srikrishnaboyspg@gmail.com",
+    "facebook": "https://www.justdial.com/Visakhapatnam/Sri-Krishna-Pg-Near-Samata-College-Apughar-Road-Mvp-Colony/0891PX891-X891-140613103206-E8P6_BZDET",
+    "twitter": "https://www.justdial.com/Visakhapatnam/Sri-Krishna-Pg-Near-Samata-College-Apughar-Road-Mvp-Colony/0891PX891-X891-140613103206-E8P6_BZDET",
+    "youtube": "https://www.justdial.com/Visakhapatnam/Sri-Krishna-Pg-Near-Samata-College-Apughar-Road-Mvp-Colony/0891PX891-X891-140613103206-E8P6_BZDET"
   },
-  "Features": [
-    {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
-    {
-      "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
-    {
-      "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
-    {
-      "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    }
-  ]
+    "Features": [
+      {
+        "icon": "fa fa-wifi",
+        "title": "Free Wi-Fi",
+        "text": "Stay connected with our high-speed internet access available throughout the hostel."
+      },
+      {
+        "icon": "fa fa-cutlery",
+        "title": "Home Feel Food",
+        "text": "Enjoy a delicious and healthy breakfast every morning, included with your stay."
+      },
+      {
+        "icon": "fa fa-lock",
+        "title": "Security",
+        "text": "Keep yourself and your belongings safe within our secure and safe premises."
+      },
+      {
+        "icon": "fa fa-bicycle",
+        "title": "Parking",
+        "text": "Explore the city with ease by renting a bike directly from the hostel."
+      }
+    ]
+  
 }
